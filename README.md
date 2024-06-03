@@ -10,7 +10,7 @@ How to Play:
 - High Score: Aim to beat your highest score
 
 Getting Started:
-- Click on this link: https://mohammedjangeer2023.github.io/SlitherGame/
+- Right-click on this link and select 'Open Link in New Tab': https://mohammedjangeer2023.github.io/SlitherGame/
 - Use arrow keys to control the snake and start playing!
 
 Note:
